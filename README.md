@@ -48,3 +48,15 @@ Este projeto reforçou conceitos importantes para desenvolvimento Front-End, com
 
 ## 📁 Estrutura do Projeto
 
+📦 curiosidades-tecnologia-android
+├── index.html
+├── style.css
+├── imagens/
+│   ├── favicon.ico
+│   ├── bugdroid.png
+│   ├── dan-droids.png
+│   ├── dan-droids-pq.png
+│   ├── irina-blok.jpg
+│   └── irina-blok-pq.jpg
+
+
