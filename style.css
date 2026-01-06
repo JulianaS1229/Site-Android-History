@@ -90,11 +90,11 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 3em; 
-    margin-bottom: 20px;
+    font-size: 2em; 
+    padding-bottom: 20px;
     text-align: center;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.316);
-    padding: 25px;
+    padding: 15px;
 }
 
 header > p {
@@ -104,6 +104,7 @@ header > p {
     font-size: 1.2em;
     max-width: 600px;        /* largura máxima para controlar quebra */
     margin: 0 auto;          /* centraliza horizontalmente */
+    padding-bottom: 20px;
     text-align: center;      /* centraliza o texto */
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.316);
     line-height: 1.5em;
