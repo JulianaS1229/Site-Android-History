@@ -10,6 +10,9 @@ O site apresenta a história do mascote do Android, desde suas primeiras versõe
 
 Projeto responsivo com adaptação para dispositivos móveis e desktop.
 
+<img width="1868" height="887" alt="image" src="https://github.com/user-attachments/assets/d088795b-32ec-4a1d-afc5-aa540632182f" />
+
+https://julianas1229.github.io/Site-Android-History/
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -58,4 +61,5 @@ Este projeto reforçou conceitos importantes para desenvolvimento Front-End, com
 │   └── irina-blok-pq.jpg
 ├── fontes/          ← fontes locais
 ├── README.md        ← documentação
+
 
