@@ -47,4 +47,15 @@ Este projeto reforçou conceitos importantes para desenvolvimento Front-End, com
 ---
 
 ## 📁 Estrutura do Projeto
+📦 Site-Android-History
+├── index.html       ← arquivo principal
+├── style.css        ← estilos
+├── imagens/         ← imagens do site
+│   ├── bugdroid.png
+│   ├── dan-droids.png
+│   ├── dan-droids-pq.png
+│   ├── irina-blok.jpg
+│   └── irina-blok-pq.jpg
+├── fontes/          ← fontes locais
+├── README.md        ← documentação
 
